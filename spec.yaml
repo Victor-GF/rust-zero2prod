@@ -22,7 +22,7 @@ services:
         value: "neondb_owner"
       - key: APP_DATABASE__HOST
         scope: RUN_TIME
-        value: "ep-small-forest-ay9wppaj-pooler.c-5.us-east-2.aws.neon.tech"
+        value: "ep-small-forest-ay9wppaj.c-5.us-east-2.aws.neon.tech"
       - key: APP_DATABASE__PORT
         scope: RUN_TIME
         value: "5432"
